@@ -1,5 +1,7 @@
 # proiect-retele-canale-stiri
 <br/>
+##Studenti: Munteanu Cristian, Nistor Gabriel, Iulia Stoian
+<br/>
 ## Subscrierea si notificarea pentru canale de stiri:
 <br/>
 ###○ Server-ul gestioneaza o serie de canale identificate prin nume si descriere;
